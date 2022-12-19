@@ -3,6 +3,16 @@ entries:
   front:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-12-19T17:04:53.928935519Z"
+    description: A Helm chart for Kubernetes
+    digest: 8080694a0decdc10963216065c7e62a4c6f3a69345c1d8c3fb99be4c272faf63
+    name: front
+    type: application
+    urls:
+    - https://github.com/CristhianF7/test-chart-releaser/releases/download/front-0.1.4/front-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-12-19T16:59:53.704063801Z"
     description: A Helm chart for Kubernetes
     digest: d9efe9ce33ded0ae43a17afbbbd431ea4cb6ac59ab69b536a8096a76044f9137
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/CristhianF7/test-chart-releaser/releases/download/front-0.1.2/front-0.1.2.tgz
     version: 0.1.2
-generated: "2022-12-19T16:59:53.704071801Z"
+generated: "2022-12-19T17:04:53.92894802Z"
